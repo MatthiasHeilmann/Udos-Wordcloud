@@ -2,15 +2,6 @@
 
 A Big Data-project as part of the class "Big Data Analytics" in the winter semester 2023 of the course TINF21AI2 at DHBW Mannheim.
 
-## Contributors
-
-| Name | Matrikel number |
-| --- | --- |
-| Matthias Heilmann | 4186046 |
-| Lorenz Müller | 8350586 |
-| Sean Schwarz | 3446064 |
-| Leo Stadtler | 9230282 |
-
 # Quickstart
 
 ## Run the application
